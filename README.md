@@ -1,4 +1,4 @@
-/License MIDI/
+C:/Users/License MIDI/
 
 Please install Inno Setup Complier
 
