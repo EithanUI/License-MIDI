@@ -1,4 +1,4 @@
-License MIDI
+/License MIDI/
 
 Please install Inno Setup Complier
 
